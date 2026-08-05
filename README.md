@@ -60,26 +60,30 @@ Cooking • Writing • Travelling
 ## GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Singh-Jahnvi&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh-Jahnvi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Singh-Jahnvi&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singh-Jahnvi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Singh-Jahnvi&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Singh-Jahnvi&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singh-Jahnvi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singh-Jahnvi&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singh-Jahnvi&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singh-Jahnvi&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Singh-Jahnvi&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singh-Jahnvi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Singh-Jahnvi&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Singh-Jahnvi&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 <br>
 
